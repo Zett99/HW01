@@ -1,0 +1,6 @@
+a = input("Father's Name : ")
+b = input("Father's Age : ")
+c = input("Son's Name : ")
+d = input("Son's Age : ")
+e = int(int(b)-int(d))
+print(a,"is",e,"years greater than",c)
